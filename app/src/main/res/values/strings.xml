@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="btn_showMessage">OK</string>
+    <string name="lbl_result">TextView</string>
+    <string name="etit_name">Please enter your name</string>
+    <string name="textview4">Calculator</string>
+    <string name="number1">number1</string>
+    <string name="number2">number2</string>
+    <string name="btn_add">ADD</string>
+    <string name="result">Result</string>
+
+</resources>
